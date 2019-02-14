@@ -1,0 +1,11 @@
+{"strings": {
+	"de-de": {
+		"Register your secret key at https://darksky.net/dev":"Hier einen Secret API Key erstellen: https://darksky.net/dev",
+		"DarkSky Secret Key":"DarkSky Secret Key",
+		"Enter Latitude":"Eingabe von Längengrad",
+		"Latitude":"Längengrad",
+		"Enter Longitude":"Eingabe von Breitengrad",
+		"Longitude":"Breitengrad"
+		}
+	}
+}
